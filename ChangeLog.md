@@ -1,6 +1,13 @@
 Change Log
 ==========
 
+## Upcoming
+
+### New features
+
+- (#178) Accept a list of language ISO codes for ignorePlurals. **Note**: this introduces backward-incompatible changes.
+
+
 ## 3.6.0 (2016-11-10)
 
 ### New features
